@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+
+img{
+
+	border-radius:50%;
+
+	object-fit:cover;
+}
+
+a{
+	font-size:1.5rem;
+
+	text-decoration:none;
+}
